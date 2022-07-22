@@ -1,5 +1,5 @@
 # Puzzle Game 
- This is a very simple program that tries to solve the puzzle of organizing the numbers in the board by only moving them to a free tile. The objective is to make the   board organized (1, 2, 3, 4, ... , 16).
+ This is a very simple program that tries to solve the puzzle of organizing the numbers in the board by only moving them to a free tile. The objective is to make the   board organized (1, 2, 3, 4, ... , 15).
  
  It asks if the user wants custom or default board, and then the max number of tries it has to get the most amount of correct numbers as possible. 
  
